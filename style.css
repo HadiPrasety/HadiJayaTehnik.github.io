@@ -1,0 +1,12 @@
+.jumbotron {
+  padding: 6rem;
+}
+section {
+  padding-top: 3rem;
+}
+body {
+  background-color: rgb(243, 202, 187);
+}
+a {
+  text-decoration: none;
+}
